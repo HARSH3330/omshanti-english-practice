@@ -1,0 +1,16 @@
+{
+  "name": "omshanti",
+  "short_name": "OmShanti",
+  "description": "AI‑powered spoken English tutoring",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48 72x72 96x96 144x144 192x192 256x256",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#6C63FF",
+  "background_color": "#0A0A14"
+}
